@@ -6,4 +6,3 @@
 - 🚀 Currently building AI-powered tools that combine domain expertise with software engineering.
 - 🛠️ Python| Java | AI/LLMs | SQL | Automation
 - 🌱 Currently practicing data structures & algorithms and building production-oriented AI projects.
-- 🌐 Portfolio: taryntang.com
